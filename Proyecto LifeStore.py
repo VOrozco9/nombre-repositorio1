@@ -1,0 +1,1 @@
+Print("Bienvenido a LifeStore"/n)
